@@ -1,5 +1,5 @@
 # Morphological WMNs
- Codes and data for morphological white matter networks.
+ Codes (most for Matlab) and data for morphological white matter networks.
  
 Junle Li, Zhen Li, Yuping Yang, Zhenzhen Luo, Yaou Liu, Jinhui Wang*, Morphological brain networks of white matter: mapping, evaluation, characterization and application. In submission.
 
