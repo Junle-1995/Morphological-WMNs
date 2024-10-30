@@ -2,7 +2,7 @@
 
 Codes (most for Matlab) and data for morphological white matter networks.
 
-Junle Li, Suhui Jin, Zhen Li, Xiangli Zeng, Yuping Yang, Zhenzhen Luo, Xiaoyu Xu, Zaixu Cui, Yaou Liu, Jinhui Wang*, Morphological brain networks of white matter: mapping, evaluation, characterization and application. In submission.
+J. Li, S. Jin, Z. Li, X. Zeng, Y. Yang, Z. Luo, X. Xu, Z. Cui, Y. Liu, J. Wang, Morphological Brain Networks of White Matter: Mapping, Evaluation, Characterization, and Application. Adv. Sci. 2024, 11, 2400061. https://doi.org/10.1002/advs.202400061
 
 Institute for Brain Research and Rehabilitation, South China Normal University, Guangzhou, China
 
